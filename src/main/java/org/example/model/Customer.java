@@ -1,2 +1,4 @@
-package org.example.model;public class Customer {
+package org.example.model;
+
+public class Customer {
 }

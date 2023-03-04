@@ -1,2 +1,5 @@
-package org.example.service;public interface CustomerService {
+package org.example.service;
+
+public interface CustomerService {
+
 }

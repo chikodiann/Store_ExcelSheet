@@ -1,2 +1,5 @@
-package org.example.enums;public enum Gender {
+package org.example.enums;
+
+public enum Gender {
+    MALE, FEMALE
 }
